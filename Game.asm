@@ -1,5 +1,5 @@
 [org 0x0100]
-jmp start
+jmp start;jmp to start routine
 ;used for collision
 end_flag: dw 0
 codes:dw 17,35,24,46

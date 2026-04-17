@@ -1,9 +1,9 @@
-# Speed-is-Need
+# Speed-is-Need 
 Speed-is-Need is a car racing game developed in x86 assembly for DOS as part of an academic project. It was built to gain hands-on experience with machine-level programming and direct hardware interaction. The game operates in text-mode video memory, with all logic and rendering implemented without using any high-level libraries.
 
 ## overview
 The game runs in text-mode video memory and interacts directly with hardware using BIOS and interrupt routines.  
-All game logic, rendering, and input handling are implemented without any high-level libraries.
+All game logic, rendering, and input handling are implemented without any high-level libraries and functionalities
 
 ## purpose
 The main goal of this project is to practice:
